@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+torch
+torchvision
+torchsummary
+scikit-learn
+joblib
+plotly
+kaleido
+openpyxl
+ipykernel
