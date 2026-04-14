@@ -13,6 +13,8 @@ T3_idx=7;
 b=16.904751517474693; 
 m=-0.0017790184866274645;
 
+%average baseline across taxels is 
+baseline_c=b+m*9362;
 time_step=0.02;
 % process and sync data %I used med filter by 5 to plot the indentations
 [force_T3,cap_T3,cycle_T3,time_T3]=sync_data(force_array_T3,cap_raw_T3,T3_idx,1.16,"Taxel 3",m,b,time_step)
