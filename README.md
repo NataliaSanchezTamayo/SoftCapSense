@@ -1,4 +1,4 @@
-# AI-enhanced soft capacitive sensor arrays for tactile robotics
+# Learning-enhanced soft capacitive arrays with cross-sensor generalization for tactile robotics
 
 
 <p align="center">
