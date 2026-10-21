@@ -1,12 +1,13 @@
 # Learning-enhanced soft capacitive arrays with cross-sensor generalization for tactile robotics
 
 
+<!--
 <p align="center">
   <a href="LINK_TO_PAPER">📄 Paper</a> |
   <a href="LINK_TO_VIDEO">🎥 Demo</a> |
   <a href="LINK_TO_APPLICATION_VIDEO">🤖 Applications</a> |
 </p>
-
+-->
 ## Overview
 
 Tactile sensing is essential for robotic manipulation, but achieving reliable, accurate, and reproducible sensing in real systems remains challenging. This work addresses key challenges in reproducibility, system integration, and calibration-free deployment, which have limited the practical use of tactile sensing in robotics.
