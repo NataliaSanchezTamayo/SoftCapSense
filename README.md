@@ -48,7 +48,7 @@ pip install -r requirements.txt
 - **Arduino IDE**: Required for hardware firmware.
 
 ### 2. Important: Data Folder Placement
-The `Data/` folder (datasets, results, and trained models) must be downloaded separately from [Edmond Data Repository]( https://doi.org/10.17617/3.ORRPF1) and placed in your project root for the relative paths in the code to work.  
+The `Data/` folder (datasets, results, and trained models) must be downloaded separately from [Edmond Data Repository]( [https://doi.org/10.17617/3.ORRPF1](https://edmond.mpg.de/previewurl.xhtml?token=cff682a8-347e-4c1e-9d08-cea15162415f)) and placed in your project root for the relative paths in the code to work.  
 
 **Correct Directory Structure:**
 ```text
